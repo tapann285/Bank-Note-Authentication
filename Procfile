@@ -1,1 +1,1 @@
-web: gunicorn -b :$PORT app:bank-note-authentication24
+web: gunicorn -b :$PORT app:flask_api.py
