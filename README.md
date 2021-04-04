@@ -6,3 +6,5 @@
 
 
 You can check the project here - https://bank-note3.herokuapp.com/
+
+![image](https://user-images.githubusercontent.com/13614668/113509252-37ce2800-9572-11eb-8a32-54c55f246ee0.png)
